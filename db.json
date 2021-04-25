@@ -1,0 +1,45 @@
+{
+  "tasks": [
+    {
+      "0": {
+        "text": "1st Task",
+        "day": "today",
+        "reminder": false,
+        "id": 1
+      },
+      "1": {
+        "text": "2nd Task",
+        "day": "Tomorrow",
+        "reminder": false,
+        "id": 2
+      },
+      "2": {
+        "text": "3rd Task",
+        "day": "tuesday",
+        "reminder": false,
+        "id": 3
+      },
+      "reminder": true,
+      "id": 1
+    },
+    {
+      "text": "2nd Task",
+      "day": "Tomorrow",
+      "reminder": false,
+      "id": 2
+    },
+    {
+      "text": "3rd Task",
+      "day": "tuesday",
+      "reminder": false,
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ]
+}
